@@ -1,6 +1,6 @@
-# Toy Tales
+## Toy Tales
 
-A fun little React app where you can view, add, like, and delete toys.  It’s all connected to a fake backend using a `json-server`.
+React app where you can view, add, like, and delete toys.  It’s all connected to a fake backend using a `json-server`.
 ---
 ## Table of Contents
 
